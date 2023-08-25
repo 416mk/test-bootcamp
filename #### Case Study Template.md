@@ -1,61 +1,70 @@
 #### Case Study Template
 
-# TITLE: BITBUY
+<div align="Middle">
+ TITLE: BITBUY
 
 # Company Name: Bitbuy
-<div align="left">
-  <img src="images/my_image.png" alt="My Image" width="100" height="100">
-</div>
+
+
+<img src= BBLogo.png alt="Alternate Text" width="1200" height="400"> 
+<div align="Left">
 
 # Incorporation Date: Bitbuy was incorporated on November 7, 2016.
 
-Coinbase is a cryptocurrency trading platform that operates in the Financial Technology (FinTech) area. It offers services for purchasing, trading, and holding numerous cryptocurrencies.
+Coinsbase is a canadian company which developped a platform which allows users to purchase, sell and trade digital assets or currencies.
 
-Individuals, investors, and institutions interested in purchasing, selling, and trading cryptocurrencies comprise Coinbase's audience. It caters to both newcomers to the cryptocurrency market and experienced traders searching for a dependable and user-friendly platform.
-
-Solution: Coinbase provides a number of cryptocurrency-related services, including:
+In Bitbuy's general audience consists of individuals, investors and institutions. Consumers rely on this platform because its user friendly and offers an educational platform which makes it interactive and easy to navigate for all demographics of experiences users. 
 
 # Products:
 
-* Cryptocurrency Exchange: Coinbase provides a platform for users to buy, sell, and trade various cryptocurrencies such as Bitcoin, Ethereum, and more. It offers a straightforward and intuitive interface, making it accessible to users with varying levels of expertise.
+* Cryptocurrency Exchange: The exchange allows users to buy crypto as well as sell and trade.
 
-* Cryptocurrency Wallet: Coinbase offers a secure digital wallet to store cryptocurrencies. This wallet provides a safe way to hold digital assets and manage them easily.
+* Cryptocurrency Wallet: Bitbuy offers a safe method of storing your personal finance tools and digital assets with state of the art encryption ensuring the safety of ur assets.
 
-* Educational Resources: Coinbase offers educational resources to help users understand cryptocurrencies, blockchain technology, and investing in digital assets. These resources include articles, tutorials, and videos.
+* Educational Resources: Bitbuy offers educational resources in the sense they teach others how to buy and trade and generalize their understanding of the market
 
-* Coinbase Pro: Coinbase has a more advanced trading platform called Coinbase Pro, which caters to professional traders and provides additional features like advanced trading tools and lower fees.
+* Bitbuy Pro: This is the more advanced platform enabling more user friendly tools easing up the trading process for its consumers.
+
+<div align="Middle">
+<img src= BB4.jpg alt="Alternate Text" width="1200" height="400"> 
+<div align="Left">
 
 Founders: The company was co-founded by Adam Goldman, Haseeb Awan, and Dean Skurka1.
 
-Business measures: Coinbase's success is tracked by a number of critical business measures, including:
+Business measures: Bitbuy's success can be quantified with the following factors
 
-* Trading Volume: The platform's overall trading volume represents the degree of activity and involvement of users. increasing trading volume reflects increasing user interest and engagement.
+* Trading Volume: the platforms general trading level indicates how often and can measure the usefullness of the tool
 
-* Number of Users: The platform's total number of registered users reflects Coinbase's user base and capacity to attract new consumers.
+* Number of Users: this allows them to quantify new users and find a general number of active consumers.
 
-* Assets Under Custody: The entire value of cryptocurrencies maintained in Coinbase's custody is represented by this measure. It reflects the confidence people have in Coinbase to safely keep their digital assets.
+* Assets Under Custody: This quantifies how much their managing in their portfolio so based on how much consumers have in their wallet the companies total equity is a quantifiable factor for its success
 
-* Coinbase earns money through transaction fees, custody fees, and other premium services. Revenue tracking gives information on the company's financial performance.
 
-Idea Genesis: The creators of Bitbuy were inspired by the increased interest and demand for cryptocurrencies in Canada. They saw a need in the market for a trustworthy and user-friendly cryptocurrency exchange and set out to give Canadians with a safe platform to buy, trade, and manage digital assets.
+* Bitbuy earns money through transaction fees, custody fees, and other premium services. so keeping track of those amounts can help you deduct how succesfull this business is.
+
+
+Idea Genesis: The creators of Bitbuy were inspired by the increased interest and demand for cryptocurrencies in Canada.They saw a market need for a reliable and user-friendly cryptocurrency exchange and set out to provide Canadians with a secure platform to purchase, trade, and manage digital assets.
+
 source:"About Us." Bitbuy. https://bitbuy.ca/about ↩ ↩2
 
-Funding: Bitbuy received its initial investment from a combination of angel investors, venture capital, and seed money. The specific amount of financing obtained by the firm is not known, but it was sufficient to establish and grow their activities.
+Funding: Bitbuy receives its funding in many ways such as combination of angel investors, venture capital, and seed money. Regardless of no starting amount stated they had enough to continue their start of operations.
 *   sources for business info:"About Us." Bitbuy. https://bitbuy.ca/about ↩ ↩2
 
 
 ## Business Activities:
 
-Financial Problem: Bitbuy solves the issue of allowing Canadians to easily access and control cryptocurrency. It promises to make purchasing, selling, and trading digital assets easier in a safe and regulated environment.
+Financial Problem: Bitbuy helps Canadians buy,trade and sell assets wether they're crypto or NFT's. Also is a solution for a digital wallet since it allows the storage of such digital asset with encryption security
 
-Intended Customers: Individuals and institutions interested in purchasing and trading cryptocurrencies are Bitbuy's core clientele. The Canadian cryptocurrency enthusiast and investment market has been continuously expanding.
+Intended Customers: Individuals and institutions looking to purchase crypto or NFT
 
-Unique Solution:Bitbuy distinguishes itself by emphasizing security and regulatory compliance. It provides a user-friendly platform that assures safe transactions and compliance with Canadian regulatory norms, delivering a level of confidence that few rivals can match.
+Unique Solution:Bitbuy's solution to this is offering consumers an easy to use platform which offers education, a wallet, an easy interface to purchase sell and trade.
 
-Technological Implementation: To maintain platform security, transaction speed, and user experience, Bitbuy leverages a variety of technologies. While exact technological aspects may necessitate more recent study, common technologies involved may include blockchain technology for safe transactions and storage, strong encryption for data protection, and real-time trading engines for efficient trading.
+Technological Implementation: The tech implication they have done is creating a fast paced network which allows users to trade in real time and buy assets and sell them aswell in real time while being secure and user friendly. Not only do they create a too they also create a community with the education side because now allows connection and even collaboration.
 
 *   Sources for Business activity:
-
+<div align="Middle">
+<img src= BB2.png alt="Alternate Text" width="1200" height="400"> 
+<div align="Left">
 
 * "About Us." Bitbuy. https://bitbuy.ca/about
 * "Bitbuy CEO Adam Goldman Discusses Canada's Cryptocurrency Regulations." Stockhouse. https://stockhouse.com/news/newswire/2020/07/27/bitbuy-ceo-adam-goldman-discusses-canada-s-cryptocurrency-regulations
@@ -65,7 +74,7 @@ Technological Implementation: To maintain platform security, transaction speed, 
 * "Bitbuy Trading Technologies." Bitbuy. https://bitbuy.ca/trading-technologies
 * "Coinsquare Review: Features, Security and More." CoinCentral. https://coincentral.com/coinsquare-review/
 * "Kraken Review: Is it a Safe Exchange to Trade Cryptocurrencies?" Blockonomi. https://blockonomi.com/kraken-review/
-* "Coinbase Review: Pros, Cons, and More." Investopedia. https://www.investopedia.com/coinbase-review-5073838
+* " Review: Pros, Cons, and More." Investopedia. https://www.investopedia.com/Bitbuy-review-5073Bitbuy838
 * "Binance Review: Fees, Deposits/Withdrawals, Purchase Limits." 99Bitcoins. https://99bitcoins.com/binance-review/
 
 
@@ -74,25 +83,35 @@ Technological Implementation: To maintain platform security, transaction speed, 
 
 Domain: Bitbuy is a cryptocurrency and digital asset exchange company.
 
-Trends and Innovations: The cryptocurrency domain has seen remarkable innovation over the last decade, including the rise of blockchain technology, the proliferation of various cryptocurrencies other than Bitcoin, the introduction of decentralized finance (DeFi) protocols, and the investigation of non-fungible tokens (NFTs) for digital ownership.
+Trends and Innovations: Over the last Decade the crypto community has been witnessing remarkable developement in the space,including the development of blockchain technology, the spread of a various amount of new cryptocurrencies other than Bitcoin, the application of decentralized finance (DeFi) protocols, and the analyzation of non-fungible tokens (NFTs) for digital ownership.
 
-Major Companies: Bitbuy coexists with large Canadian cryptocurrency exchanges such as Coinsquare and Kraken, as well as worldwide heavyweights such as Coinbase and Binance.
+
+
+Major Companies: Bitbuy coexists with large Canadian cryptocurrency exchanges such as Coinsquare and Kraken, as well as worldwide heavyweights such as Bitbuy and Binance.
+
+<div align="Middle">
+<img src= BB5.png alt="Alternate Text" width="1200" height="400"> 
+<div align="Left">
 
 * sources for landscape:
 * "Bitbuy - Buy Bitcoin In Canada - Secure And Reliable." Bitbuy. https://bitbuy.ca/
 * "Coinsquare Review: Features, Security and More." CoinCentral. https://coincentral.com/coinsquare-review/
 * "Kraken Review: Is it a Safe Exchange to Trade Cryptocurrencies?" Blockonomi. https://blockonomi.com/kraken-review/
-* "Coinbase Review: Pros, Cons, and More." Investopedia. https://www.investopedia.com/coinbase-review-5073838
+* "Bitbuy Review: Pros, Cons, and More." Investopedia. https://www.investopedia.com/Bitbuy-review-5073838
 * "Binance Review: Fees, Deposits/Withdrawals, Purchase Limits." 99Bitcoins. https://99bitcoins.com/binance-review/
 
 
 ## Results
 
-Business Impact: Bitbuy has made a big contribution to the adoption of cryptocurrencies in Canada. It has offered Canadians with a dependable and user-friendly platform for entering the bitcoin market and safely managing their digital assets.
+Business Impact: Bitbuy has made alot of changes in adopting to these new currency economies and has done it exceptionally while providing an easy user friendly tool.
 
-Core Metrics: Trading volume, number of active users, security problems, regulatory compliance, and user happiness are all metrics to gauge performance in this area. To truly measure Bitbuy's effectiveness, particular data would be required, but its ability to recruit customers while preserving security and regulatory compliance would be significant signs.
+Core Metrics: Trading volume, number of active users, security problems, regulatory compliance, and user happiness are all metrics to gauge performance in this area. in order to really know Bitbuy's effectiveness, specific data would be required, but its ability to recruit customers while preserving the security and the regulation compliance would be enough signs.
 
-Competitive Performance: Comparing Bitbuy's trading volume, user growth, security track record, and regulatory conformity to its rivals, based on the most recent accessible data, would give insights into its competitive standing.
+Competitive Performance: Comparing Bitbuy's trading volume, user growth, security track record, and regulatory conformity to its rivals, based on the most recent accessible data, would give us the best chance at calculating its performance stats compare to its competition.
+
+<div align="Middle">
+<img src= BB3.png alt="Alternate Text" width="1200" height="400"> 
+<div align="Left">
 
 * sources for results:
 "Bitbuy - Buy Bitcoin In Canada - Secure And Reliable." Bitbuy. https://bitbuy.ca/ ↩
@@ -100,16 +119,16 @@ Competitive Performance: Comparing Bitbuy's trading volume, user growth, securit
 
 ## Recommendations
 
-Product/Service Expansion: Bitbuy could think about expanding its offerings to include instructional tools to help consumers better grasp cryptocurrency and blockchain technology. Hosting webinars, developing guidelines, and providing seminars might help people make more educated investing decisions.
+Product/Service Expansion: Bitbuy could think about expanding educational side so more instructional tools to help consumers better understand cryptocurrency and blockchain technology. Hosting webinars, developing guidelines, and providing seminars might help people make more educated investing decisions.
 
 
-Benefits: This instructional program has the potential to boost user engagement, loyalty, and trust. Users who are well-informed are more likely to become loyal consumers and active players in the bitcoin ecosystem.
+Benefits: This instructional program has the potential to boost user engagement, loyalty, and trust. Users who are well-informed and are making better decision are also likely making money which creates a sense of loyalty within our customer base.
 
 
-Technologies: A user-friendly platform and mobile app might be used to distribute instructional content. Modern engagement approaches might be used with interactive information, video lessons, and gamified learning experiences.
+Technologies: A user-friendly platform and mobile app might be used to distribute instructional content. Engagement approaches will be used with information, video lessons, and interactive learning experiences.
 
 
-Appropriateness of Technologies: Bitbuy's emphasis on simplicity and accessibility would be aligned with the usage of a user-friendly platform with multimedia capabilities. Such technologies would make learning about cryptocurrency more enjoyable and accessible to people with a variety of technology backgrounds.
+Appropriateness of Technologies: Bitbuy's easy to use platform would make this very appropriate of a tech advancement in the sense that more people who get on more loyal customers and more consumers in general.
 
 
 References:
